@@ -299,4 +299,8 @@
     .ready1{
         padding-bottom: 6rem;
     }
+
+    #class_card {
+        display: none;
+    }
 }

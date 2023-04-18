@@ -306,3 +306,18 @@ h3{
    }
  
 }
+
+@media (min-width: 820px) and (max-width: 1080px) {
+    .pic1 img{
+     width: 55vw;
+     height: auto;
+     margin: 0 auto;
+     padding: 1rem;
+    }
+    .pic2 img{
+     width: 55vw;
+     height: auto;
+     margin: 0 auto;
+     padding: 1rem;
+    }
+ }
